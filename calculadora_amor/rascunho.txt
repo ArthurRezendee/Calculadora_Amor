@@ -1,0 +1,22 @@
+       
+
+  //código condiçoes
+      let number2 = 0;
+
+            if (nome1[0] === nome2[0]) {
+
+              number2 += 20;
+
+            }
+
+            if (nome1.length === nome2.length) {
+
+                number2 += 20;
+  
+              }
+
+            
+          
+            
+
+            let result = Math.floor((number1 + number2) / 2);
